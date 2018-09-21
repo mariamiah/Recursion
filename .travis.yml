@@ -11,11 +11,14 @@ install:
 
 
 #command to run tests
-
-script: nosetests --with-coverage --cover-package=app && coverage report
+script:
+  # - nose2 tests --with-coverage 
+  - nosetests --with-coverage --cover-tests  --cover-package=tests
+  - coverage report
 
 
 after_success:
  - coveralls
+
 
 
