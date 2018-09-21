@@ -1,5 +1,8 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/0322fc77b4de533678e9/maintainability)](https://codeclimate.com/github/mariamiah/Andela-Women-Challenge-Day4/maintainability)
 
+[![Build Status](https://travis-ci.org/mariamiah/Andela-Women-Challenge-Day5.svg?branch=master)](https://travis-ci.org/mariamiah/Andela-Women-Challenge-Day5)
+
+
 # Day four
 On the second last day of week three, We `own our own tests` as we learn about recursion.
 
